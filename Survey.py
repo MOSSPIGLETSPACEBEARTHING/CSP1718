@@ -1,0 +1,7 @@
+# SOMETHING SOMETHING SOMETHING RAW INPUT SOMETHING SURVEY
+HI = raw_input ("YOUR NAME?")
+AGE = raw_input ("HOW OLD ARE YOU?") 
+DOB = raw_input ("DAY OF BIRTH")
+DAY = raw_input ("HOW WAS YOUR DAY?")
+FOOD = raw_input ("FAVORITE FOOD?") 
+print "HELLO" + " "+ HI+ "THE YEARS YOU HAVE OFF YOUR LIFE IS,"+ " "+ AGE + "YOU WERE BORN,"+ " "+ DOB+ " "+ "YOUR DAY WAS"+ " "+ DAY+ " "+ "YOUR FAVORITE FOOD IS"+ " "+ FOOD
